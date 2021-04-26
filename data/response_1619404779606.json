@@ -1,0 +1,266 @@
+[
+  {
+    "id": "f4975268-00b2-406d-1036-08d6afcab3e2",
+    "name": "Aranea",
+    "japaneseName": null,
+    "age": "30",
+    "gender": "Female",
+    "race": "Human",
+    "job": "Dragoon",
+    "height": "1.67",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Aranea Highwind (アラネア・ハイウィンド Aranea Haiwindo) is a boss and a guest party member in Final Fantasy XV. She is a mercenary who serves as the the commodore of the Niflheim Empire's Third Army Corps 86th Airborne Unit. Her skill in aerial combat and wielding of a lance makes her akin to a Dragoon, a traditional job class from the Final Fantasy series. Aranea is a hard-edged and free-spirited mercenary whose loyalty and motivations are ambiguous. While she ranks highly within the empire, she is unafraid to speak about her distrust of other high ranking officials. Despite her status, she speaks to others in a casual manner, and is rather mischievous. She chooses her own path, and encourages others to do the same. Aranea is fought as a boss, and appears as a guest party member. She is agile, and uses airborne jump attacks with her lance. When in the party, she can perform link-strikes with the player character and be given various Technique commands, including Highwind, her signature ability. Aranea will get her own DLC episode in 2019. Its working title is \"The Beginning of the End\".",
+    "pictures": [
+      {
+        "id": "220c6f3f-ddbf-4489-9a21-d1659a419bc3",
+        "url": "https://mooglestorage.blob.core.windows.net/images/220c6f3f-ddbf-4489-9a21-d1659a419bc3.jpg",
+        "primary": 1,
+        "collectionId": "f4975268-00b2-406d-1036-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "4f0bb73a-b617-47c4-1037-08d6afcab3e2",
+    "name": "Ardyn",
+    "japaneseName": null,
+    "age": "??",
+    "gender": "Male",
+    "race": "Human",
+    "job": "Chancellor",
+    "height": "1.75",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Ardyn Izunia (アーデン・イズニア Āden Izunia) is the main antagonist of Final Fantasy XV. He appears in the feature film Kingsglaive: Final Fantasy XV and handles the Niflheim Empire's political operations for Emperor Aldercapt. Responsible for the expansion of Verstael Besithia's magitek infantry, Ardyn is a shrewd, humorous man. Ardyn will get his own DLC episode in 2018.",
+    "pictures": [
+      {
+        "id": "42965315-e4be-42af-a700-004bd4100e52",
+        "url": "https://mooglestorage.blob.core.windows.net/images/42965315-e4be-42af-a700-004bd4100e52.jpg",
+        "primary": 1,
+        "collectionId": "4f0bb73a-b617-47c4-1037-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "c1c3c975-8d6c-445c-1038-08d6afcab3e2",
+    "name": "Cor",
+    "japaneseName": null,
+    "age": "45",
+    "gender": "Male",
+    "race": "Human",
+    "job": "Commander",
+    "height": "1,91",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Cor Leonis (コル・リオニス Koru Rionisu), known as ''the Immortal'' (不死将軍 Fushi Shōgun), is a guest character in Final Fantasy XV, who also appears in Episode Gladiolus DLC and in Final Fantasy XV: Comrades. Cor is one of the best fighters in the Kingdom of Lucis. He is the Marshal of the Crownsguard, the Lucian royal guard that protects the Citadel and Insomnia, and thus in turn the royal family. Before the events in Kingsglaive: Final Fantasy XV, Cor and the Crownsguard are reassigned to protect all crown citizens.",
+    "pictures": [
+      {
+        "id": "29faedbf-efe0-4748-898e-3ad93bc52e6d",
+        "url": "https://mooglestorage.blob.core.windows.net/images/29faedbf-efe0-4748-898e-3ad93bc52e6d.jpg",
+        "primary": 1,
+        "collectionId": "c1c3c975-8d6c-445c-1038-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "fea4c912-63ff-4136-1039-08d6afcab3e2",
+    "name": "Crowe",
+    "japaneseName": null,
+    "age": "Late 20s",
+    "gender": "Female",
+    "race": "Human",
+    "job": "Kingsglaive",
+    "height": "??",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Crowe Altius (クロウ・アルティウス Kurō Arutiusu) is a character in Kingsglaive: Final Fantasy XV and one of the eponymous Kingsglaive's female members. \r\n\r\nCrowe is a loyal member of the Kingsglaive who cares deeply for her fellow soldiers. She sees them as her family, although she grows tired of hearing Libertus Ostium say she is like a little sister to him. She is also an exceptionally gifted wielder of magic. With the help of her fellow Glaives, she can summon fiery tornadoes to combat her enemies.",
+    "pictures": [
+      {
+        "id": "fb6bc96d-2319-454d-bd05-69237c09be2a",
+        "url": "https://mooglestorage.blob.core.windows.net/images/fb6bc96d-2319-454d-bd05-69237c09be2a.jpg",
+        "primary": 1,
+        "collectionId": "fea4c912-63ff-4136-1039-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "f75c74d1-33a9-414f-103a-08d6afcab3e2",
+    "name": "Gladiolus",
+    "japaneseName": null,
+    "age": "23",
+    "gender": "Male",
+    "race": "Human",
+    "job": "Bodyguard",
+    "height": "1.98",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Gladiolus Amicitia (グラディオラス・アミシティア Guradiorasu Amishitia) is a companion of Prince Noctis and a party member in Final Fantasy XV. As a member of Noctis's party, the player can co-opt moves with him and issue him commands. He is a childhood friend of Noctis and Ignis, the eldest son of Clarus Amicitia and older brother to Iris Amicitia. As a member of the Crownsguard, Gladiolus acts as the shield of Noctis, like his father has been to King Regis. He has known Noctis since childhood and considers him a brother. Gladiolus is the main playable character in Final Fantasy XV: Episode Gladiolus, his own DLC episode, in Chapter 13 Verse 2, an added segment to Chapter 13, and as a switchable player character in the main game after the December update. He can also be fought as an opponent in Final Fantasy XV: Comrades.",
+    "pictures": [
+      {
+        "id": "037c7032-3561-4287-8e76-74f66245f42d",
+        "url": "https://mooglestorage.blob.core.windows.net/images/037c7032-3561-4287-8e76-74f66245f42d.jpg",
+        "primary": 1,
+        "collectionId": "f75c74d1-33a9-414f-103a-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "a48f93de-c933-44f7-103b-08d6afcab3e2",
+    "name": "Ignis",
+    "japaneseName": null,
+    "age": "22",
+    "gender": "Male",
+    "race": "Human",
+    "job": "Chocobro",
+    "height": "1.83",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Ignis Scientia (イグニス・スキエンティア Igunisu Sukientia) is a companion of Prince Noctis and a party member in Final Fantasy XV. When not the player character, he can co-opt moves with Noctis and be issued orders. His name was originally given as Ignis Stupeo Scientia, but the middle name is no longer used in his official biographies. He is Noctis's close childhood friend alongside Gladiolus and Prompto, acting as an adviser for the royal family and a servant of the Crownsguard. He is the group's driver and chef, taking the wheel of the party's car unless the player wants to drive manually as Noctis. Ignis is the main playable character of his own DLC episode, and as a switchable player character in the main game after the December 2017 update. He can also be fought as an opponent in Final Fantasy XV: Comrades.",
+    "pictures": [
+      {
+        "id": "6bb601b2-386e-4e52-8995-5073d4d2295d",
+        "url": "https://mooglestorage.blob.core.windows.net/images/6bb601b2-386e-4e52-8995-5073d4d2295d.jpg",
+        "primary": 1,
+        "collectionId": "a48f93de-c933-44f7-103b-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "b988008a-6c37-4619-103c-08d6afcab3e2",
+    "name": "Iris",
+    "japaneseName": null,
+    "age": "15",
+    "gender": "Female",
+    "race": "Human",
+    "job": "Companion",
+    "height": "1.61",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Iris Amicitia (イリス・アミシティア Irisu Amishitia) is a guest character in Final Fantasy XV. She is the younger sister of Gladiolus and the daughter of Clarus Amicitia. She is the eldest daughter of the Amicitia family.",
+    "pictures": [
+      {
+        "id": "0a75a718-dea1-4f63-baa9-22f820ce760a",
+        "url": "https://mooglestorage.blob.core.windows.net/images/0a75a718-dea1-4f63-baa9-22f820ce760a.jpg",
+        "primary": 1,
+        "collectionId": "b988008a-6c37-4619-103c-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "b7bd48a2-59dc-40ad-103d-08d6afcab3e2",
+    "name": "Lunafreya",
+    "japaneseName": null,
+    "age": "24",
+    "gender": "Female",
+    "race": "Human",
+    "job": "Princess",
+    "height": "1.67",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Lunafreya Nox Fleuret (ルナフレーナ・ノックス・フルーレ Runafurēna Nokkusu Furūre, ''Lunafrena Nox Fleuret'' in the Japanese version), also known simply as Luna (ルーナ Rūna), is the main heroine in Final Fantasy XV and one of the two main characters in Kingsglaive: Final Fantasy XV. A former princess of Tenebrae, she is a captive of the Niflheim Empire. Able to talk to the gods, Luna is the youngest Oracle in history. Despite it being under Niflheim's control, Tenebrae has some autonomy thanks to her. She is the younger sister of Ravus Nox Fleuret, and Prince Noctis's betrothed. Luna is the daughter of the Queen of Tenebrae, Sylva Nox Fleuret. She has two dogs: the white Pryna and the black Umbra. Luna is the presence that supports Noctis for him to fulfill his destiny. Luna and Noctis are childhood friends but their feelings for each other are complicated, as both must uphold the burdens that come with their status.",
+    "pictures": [
+      {
+        "id": "aa1c7c5a-b96a-4028-8673-a5979ad3f292",
+        "url": "https://mooglestorage.blob.core.windows.net/images/aa1c7c5a-b96a-4028-8673-a5979ad3f292.jpg",
+        "primary": 1,
+        "collectionId": "b7bd48a2-59dc-40ad-103d-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "1154fff6-f8a6-4beb-103e-08d6afcab3e2",
+    "name": "Noctis",
+    "japaneseName": "ノクティス・ルシス・チェラム",
+    "age": "20",
+    "gender": "Male",
+    "race": "Human",
+    "job": "Prince",
+    "height": "176cm",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Noctis Lucis Caelum (ノクティス・ルシス・チェラム Nokutisu Rushisu Cheramu), ''Noct'' (ノクト Nokuto) for short, is the playable character and main protagonist of Final Fantasy XV. He is the Crown Prince and heir to the throne of Lucis, the kingdom to have control over the Crystal. Thus, he can wield the power of Lucian kings. He was first announced for the cancelled game Final Fantasy Versus XIII, which eventually transformed into the Final Fantasy XV Universe.",
+    "pictures": [
+      {
+        "id": "9a5f4c52-9806-493e-9352-5750a5420006",
+        "url": "https://mooglestorage.blob.core.windows.net/images/9a5f4c52-9806-493e-9352-5750a5420006.jpg",
+        "primary": 1,
+        "collectionId": "1154fff6-f8a6-4beb-103e-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "98350e62-596a-4587-103f-08d6afcab3e2",
+    "name": "Prompto",
+    "japaneseName": null,
+    "age": "20",
+    "gender": "Male",
+    "race": "Human",
+    "job": "Chocobro",
+    "height": "1.73",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Prompto Argentum (プロンプト・アージェンタム Puronputo Ājentamu) s a companion of Prince Noctis and a party member in Final Fantasy XV. As a member Noctis's party, the player can co-opt moves with him and issue him commands. He is a childhood friend of Noctis and wields firearms. Prompto takes photos and wants to save pictures of their road trip. The player can upload these pictures to social media. It has been said the system was not just ''thrown in'', but connects to the party's actions and the story. In Episode Prompto DLC scenario, the player can play as Prompto as he traverses the arctic imperial outlands. Prompto is also a switchable player character after the December update in the main game. He can be fought against as an opponent in Final Fantasy XV: Comrades.",
+    "pictures": [
+      {
+        "id": "c606498b-80ce-4979-8ba5-8dcb06cd5302",
+        "url": "https://mooglestorage.blob.core.windows.net/images/c606498b-80ce-4979-8ba5-8dcb06cd5302.jpg",
+        "primary": 1,
+        "collectionId": "98350e62-596a-4587-103f-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "a87aba7e-30b7-42fc-1040-08d6afcab3e2",
+    "name": "Ravus",
+    "japaneseName": null,
+    "age": "28",
+    "gender": "Male",
+    "race": "Human",
+    "job": "High Commander",
+    "height": "??",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Ravus Nox Fleuret (レイヴス・ノックス・フルーレ Reivusu Nokkusu Furūre) is a character in the Final Fantasy XV Universe, being a minor antagonist in the feature film Kingsglaive: Final Fantasy XV and the secondary antagonist in Final Fantasy XV. The older brother of Lunafreya Nox Fleuret, he is the former prince of Tenebrae and high commander of the Niflheim Empire's army.",
+    "pictures": [
+      {
+        "id": "3cccb493-40cc-4bcc-a501-9fda8aa5dc26",
+        "url": "https://mooglestorage.blob.core.windows.net/images/3cccb493-40cc-4bcc-a501-9fda8aa5dc26.jpg",
+        "primary": 1,
+        "collectionId": "a87aba7e-30b7-42fc-1040-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  },
+  {
+    "id": "ca5fd1cd-d129-4f95-1041-08d6afcab3e2",
+    "name": "Regis",
+    "japaneseName": null,
+    "age": "50",
+    "gender": "Male",
+    "race": "Human",
+    "job": "King",
+    "height": "1.85",
+    "weight": "??",
+    "origin": "Final Fantasy XV",
+    "description": "Regis Lucis Caelum CXIII (レギス・ルシス・チェラム113世 Regisu Rushisu Cheramu Hyakujūsansei) is a major character in the Final Fantasy XV Universe. He is the main protagonist of A King's Tale: Final Fantasy XV, and also appears in Final Fantasy XV and the feature film Kingsglaive: Final Fantasy XV. As the King of Lucis, he is referred to as King Regis or Regis Lucis Caelum CXIII. He uses the Ring of the Lucii to channel the power of Insomnia's Crystal. With it, he maintains the Wall, which gradually drains his life-force. Regis thus feels ambivalent his son, Noctis Lucis Caelum, would have the same fate befall him.",
+    "pictures": [
+      {
+        "id": "e596c719-3fce-4bc2-8258-e3922e8c4d3a",
+        "url": "https://mooglestorage.blob.core.windows.net/images/e596c719-3fce-4bc2-8258-e3922e8c4d3a.jpg",
+        "primary": 1,
+        "collectionId": "ca5fd1cd-d129-4f95-1041-08d6afcab3e2"
+      }
+    ],
+    "stats": []
+  }
+]
